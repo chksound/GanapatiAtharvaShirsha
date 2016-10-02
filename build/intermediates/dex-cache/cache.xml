@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Harshal\Projects\Android\GanapatiAtharvaShirsha\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Harshal\Projects\Android\GanapatiAtharvaShirsha\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.1_9d194fabd040877af05b29c7b5efe20bc7d5ca5f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Harshal\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Harshal\Projects\Android\GanapatiAtharvaShirsha\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.1_49a63bd47697ba228d7c6191a56e478d86f98911\classes.dex" />
+    </item>
+    <item
+        jar="C:\Harshal\Projects\Android\GanapatiAtharvaShirsha\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Harshal\Projects\Android\GanapatiAtharvaShirsha\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.1_820c3e352562c2d7f6c91090ce1bfc09b9a01e7a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Harshal\Projects\Android\GanapatiAtharvaShirsha\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e4f6378c8e7118d6d14847b8a086f78c2cfa9be4">
+        <dex dex="C:\Harshal\Projects\Android\GanapatiAtharvaShirsha\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4e8cd2870206cb7817e02817ebdaff4cf76bb8c2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Harshal\Projects\Android\GanapatiAtharvaShirsha\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Harshal\Projects\Android\GanapatiAtharvaShirsha\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.1_168c44b0ff779f084cb929f577164b14cc027eb9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Harshal\Projects\Android\GanapatiAtharvaShirsha\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="87667810c9d4a07f49e5ad044b9e5d1d054940f4">
+        <dex dex="C:\Harshal\Projects\Android\GanapatiAtharvaShirsha\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_acc86bd26cc8c881dab07653d3b40b80077bf024\classes.dex" />
+    </item>
+
+</items>

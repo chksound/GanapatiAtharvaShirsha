@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<resources>
+    <string name="app_name">Ganapati AtharvaShirsha</string>
+    <string name="app_name_san">॥गणपति अथर्वशीर्ष॥</string>
+    <string name="Shree">|| श्री ||</string>
+    <string name="action_about">About</string>
+    <string name="menu_english">English Pronunciation</string>
+    <string name="menu_sanskrit">Sanskrit Version</string>
+    <string name="menu_meaning">English Meaning</string>
+    <string name="menu_audio">Audio Version</string>
+    <string name="menu_stotra">संकटनाशक गणपतीस्तोत्रं</string>
+    <string name="menu_aarati">श्री गणपती आरती</string>
+    <string name="title_activity_english">English version</string>
+    <string name="title_activity_sanskrit">Sanskrit version</string>
+    <string name="title_activity_play">Play audio</string>
+    <string name="title_activity_meaning">English Meaning</string>
+    <string name="title_activity_aarati">श्री गणपती आरती</string>
+    <string name="legal_note">All rights reserved. Not liable for any damage incurred from use of this software.</string>
+    <string name="footnote">CHK Sound LLC &#169; chksound.com</string>
+    <string name="chksound_logo">chksound</string>
+    <string name="ganapati_logo">chksound</string>
+    <string name="title_activity_stotra">Ganapati Stotra</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>

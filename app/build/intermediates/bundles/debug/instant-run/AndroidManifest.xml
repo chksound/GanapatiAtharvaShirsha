@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.chksound.apps.ganapatiatharvashirsha"
+    android:versionCode="8"
+    android:versionName="1.8" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="23" />
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:fullBackupContent="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.chksound.apps.ganapatiatharvashirsha.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.chksound.apps.ganapatiatharvashirsha.EnglishActivity"
+            android:label="@string/title_activity_english"
+            android:parentActivityName="com.chksound.apps.ganapatiatharvashirsha.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.chksound.apps.ganapatiatharvashirsha.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.chksound.apps.ganapatiatharvashirsha.SanskritActivity"
+            android:label="@string/title_activity_sanskrit"
+            android:parentActivityName="com.chksound.apps.ganapatiatharvashirsha.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.chksound.apps.ganapatiatharvashirsha.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.chksound.apps.ganapatiatharvashirsha.PlayActivity"
+            android:label="@string/title_activity_play"
+            android:parentActivityName="com.chksound.apps.ganapatiatharvashirsha.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.chksound.apps.ganapatiatharvashirsha.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.chksound.apps.ganapatiatharvashirsha.MeaningActivity"
+            android:label="@string/title_activity_meaning"
+            android:parentActivityName="com.chksound.apps.ganapatiatharvashirsha.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.chksound.apps.ganapatiatharvashirsha.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.chksound.apps.ganapatiatharvashirsha.Stotra"
+            android:label="@string/title_activity_stotra"
+            android:parentActivityName="com.chksound.apps.ganapatiatharvashirsha.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.chksound.apps.ganapatiatharvashirsha.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.chksound.apps.ganapatiatharvashirsha.AaratiActivity"
+            android:label="@string/title_activity_aarati"
+            android:parentActivityName="com.chksound.apps.ganapatiatharvashirsha.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.chksound.apps.ganapatiatharvashirsha.MainActivity" />
+        </activity>
+    </application>
+
+</manifest>
